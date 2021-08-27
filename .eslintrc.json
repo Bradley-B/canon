@@ -20,7 +20,7 @@
     "rules": {
         "indent": [
             "error",
-            4
+            2
         ],
         "quotes": [
             "error",
@@ -35,8 +35,7 @@
 			"always"
 		],
 		"prefer-const": [
-			"error",
-			"always"
+			"error"
 		],
 		"rest-spread-spacing": [
 			"error",
