@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: content
   repo: Bradley-B/canon
 
 media_folder: "public/images" # Media files will be stored in the repo under public/images
