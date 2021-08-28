@@ -1,23 +1,23 @@
 ---
 title: About Canon
 publishDate: 2021-08-28
-lastModifiedDate: 2021-08-28
+lastModifiedDate: 2021-08-29
 ---
 I think a lot about something my brain has categorized as 'the human<small><sup>[1](#foot1)</sup></small> experience'.
-What aspects of my experience of the world are innate to human consciousness? What
-are the thought patterns that people share? What issues do I struggle with, that 
-everyone else does as well? 
+What aspects of my experience of the world are innate to human consciousness? What issues do people have that are, just,
+an inevitable consequence of life? What does it mean to be alive, and to be mortal?
 
-Compassion. Contempt. A desire to fit in. A desire for companionship. For a purpose. To make a difference.
-<Comment>Selfishness. Envy. Greed.</Comment>
+Love. Compassion. A desire to fit in. A desire for companionship. For a purpose. To make a difference.
+<Comment>Contempt. Selfishness. Envy. Greed.</Comment>
 
-Thinking about what it means to be a person evokes a sense of community,
-and, like, patriotism with all humans? We're all here, and we're all trying our best. Most of the time.
+Thinking about what it means to be a person evokes a sense of community, and, like, patriotism with all humans?
+I don't know. People are just great. 4.5 stars. We're all here, and we're all trying our best. Most of the time.
 
-That's probably why Canon exists. Somewhere wrapped up in my examination of the human experience
-(and examination of my own experience) is a desire to record my observations. Brains are fickle
-and forget things constantly. They change over time and adapt to new situations. It's useful to
-record what's going through mine, in case future me can glean some more insight<small><sup>[2](#foot2)</sup></small>.
+That's probably why Canon exists. Somewhere wrapped up in my feelings and in my exploration of the human experience 
+is a need to get them down somewhere. Brains are fickle and forget things constantly. Recording thoughts enables way 
+easier sharing, with both others and future me<small><sup>[2](#foot2)</sup></small>. I'm the type of person who likes
+to keep all sorts of metadata about myself. It's why I haven't turned off all the privacy-invading settings on my 
+devices. Yes, please take my data. As long as you share it with me afterwards.
 
 Canon is meant to be *my canon*. Authentic thoughts from the noggin. 
 A reflection of the principles that I govern myself by. Recorded for posterity.
