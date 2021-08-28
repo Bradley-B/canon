@@ -1,8 +1,9 @@
 ---
 title: About Canon
-date: 2021-08-28T11:31:20.591Z
+publishDate: 2021-08-28
+lastModifiedDate: 2021-08-28
 ---
-I think a lot about something my brain has categorized as 'the human<sup>[1](#foot1)</sup> experience'.
+I think a lot about something my brain has categorized as 'the human<small><sup>[1](#foot1)</sup></small> experience'.
 What aspects of my experience of the world are innate to human consciousness? What
 are the thought patterns that people share? What issues do I struggle with, that 
 everyone else does as well? 
@@ -16,9 +17,9 @@ and, like, patriotism with all humans? We're all here, and we're all trying our 
 That's probably why Canon exists. Somewhere wrapped up in my examination of the human experience
 (and examination of my own experience) is a desire to record my observations. Brains are fickle
 and forget things constantly. They change over time and adapt to new situations. It's useful to
-record what's going through mine, in case future me can glean some more insight<sup>[2](#foot2)</sup>.
+record what's going through mine, in case future me can glean some more insight<small><sup>[2](#foot2)</sup></small>.
 
-Canon is meant to be *my* canon. Authentic thoughts from the noggin. 
+Canon is meant to be *my canon*. Authentic thoughts from the noggin. 
 A reflection of the principles that I govern myself by. Recorded for posterity.
 
 ...

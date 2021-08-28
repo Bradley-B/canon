@@ -1,0 +1,24 @@
+.navbar {
+    font-size: 15pt;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 25px;
+}
+
+.navbar a {
+    margin: 0 5px 0 5px;
+}
+
+.layout {
+    margin-top: 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.layout div {
+    max-width: 900px;
+    width: 90%;
+}
