@@ -21,3 +21,11 @@ collections:
             fields:
               - { label: "Name", name: "name", widget: "string"}
               - { label: "Description", name: "description", widget: "text"}
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "publish-date", widget: "datetime" }
+          - { label: "Last Modified Date", name: "last-modified-date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
