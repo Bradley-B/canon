@@ -1,0 +1,29 @@
+.postContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.postLink {
+    font-size: 15pt;
+    display: flex;
+    margin: 5px;
+}
+
+.postLink p {
+    font-size: 10pt;
+    margin-left: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+ }
+
+.postLink a {
+    text-decoration: none;
+    display: flex;
+    align-items: flex-end;
+}
+
+.postLink a:hover, .postLink a:active {
+    text-decoration: underline;
+}

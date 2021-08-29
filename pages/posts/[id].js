@@ -9,7 +9,7 @@ const Post = ({ post: { content, metadata } }) => {
 
   return (
     <>
-      <p>Posted on { formatDate(JSON.parse(publishDate)) }.</p>
+      <p>Posted on { formatDate(publishDate) }.</p>
       <article>
         <h1>{title}</h1>
         <ReactMarkdown children={content} rehypePlugins={[rehypeRaw]} />
