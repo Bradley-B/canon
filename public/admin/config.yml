@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: content
   repo: Bradley-B/canon
 media_folder: public/img
@@ -29,3 +29,13 @@ collections:
           - { label: "Publish Date", name: "publishDate", widget: "datetime" }
           - { label: "Last Modified Date", name: "lastModifiedDate", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "publishDate", widget: "datetime" }
+      - { label: "Last Modified Date", name: "lastModifiedDate", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

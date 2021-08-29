@@ -1,14 +1,17 @@
 import { Component } from 'react';
-import { attributes, react as HomeContent } from '../content/home.md';
+import ReactMarkdown from 'react-markdown';
+import matter from 'gray-matter';
+import fileContent from '../content/home.md';
 
 export default class Home extends Component {
   render() {
-    let { title, cats } = attributes;
+    const { content: markdownBody, data: metadata } = matter(fileContent);
+    const { title, cats } = metadata;
     return (
       <>
         <article>
           <h1>{title}</h1>
-          <HomeContent />
+          <ReactMarkdown children={markdownBody} />
           <ul>
             {cats.map((cat, k) => (
               <li key={k}>

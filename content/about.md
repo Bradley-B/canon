@@ -8,7 +8,7 @@ What aspects of my experience of the world are innate to human consciousness? Wh
 an inevitable consequence of life? What does it mean to be alive, and to be mortal?
 
 Love. Compassion. A desire to fit in. A desire for companionship. For a purpose. To make a difference.
-<Comment>Contempt. Selfishness. Envy. Greed.</Comment>
+<!--- Contempt. Selfishness. Envy. Greed. -->
 
 Thinking about what it means to be a person evokes a sense of community, and, like, patriotism with all humans?
 I don't know. People are just great. 4.5 stars. We're all here, and we're all trying our best. Most of the time.
