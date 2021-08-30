@@ -7,3 +7,7 @@ p {
     padding: 3px 0 3px 0;
     line-height: 140%;
 }
+
+pre {
+    overflow: auto;
+}
