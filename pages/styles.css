@@ -11,3 +11,8 @@ p {
 pre {
     overflow: auto;
 }
+
+.no-style {
+    text-decoration: none;
+    color: black;
+}

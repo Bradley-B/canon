@@ -13,6 +13,7 @@ const Post = ({ post: { content, metadata } }) => {
       <article>
         <h1>{title}</h1>
         <ReactMarkdown children={content} rehypePlugins={[rehypeRaw]} />
+        <p style={{ marginBottom: 100 }}/>
       </article>
     </>
   );
