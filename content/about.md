@@ -7,7 +7,7 @@ I think a lot about something my brain has categorized as 'the human<small><sup>
 What aspects of my experience of the world are innate to human consciousness? What issues do people have that are, just,
 an inevitable consequence of life? What does it mean to be alive, and to be mortal?
 
-Love. Compassion. A desire to fit in. A desire for companionship. For a purpose. To make a difference.
+Compassion. A desire to fit in. A desire for companionship. For a purpose. To make a difference.
 <!--- Contempt. Selfishness. Envy. Greed. -->
 
 Thinking about what it means to be a person evokes a sense of community, and, like, patriotism with all humans?
