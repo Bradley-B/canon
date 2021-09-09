@@ -3,7 +3,7 @@ import { fetchPostContent } from '../../functions/posts';
 import styles from './index.module.css';
 import { formatDate } from '../../functions/util';
 
-const PostsList = ({ posts }) => {
+const PostList = ({ posts }) => {
   return <>
     <h1>Posts</h1>
     <div className={styles.postContainer}>
@@ -31,4 +31,4 @@ export const getStaticProps = async () => {
   };
 };
 
-export default PostsList;
+export default PostList;

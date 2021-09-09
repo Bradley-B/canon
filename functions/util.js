@@ -1,4 +1,4 @@
-const dateDisplayOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+const dateDisplayOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/New_York' };
 
 export const formatDate = (date) => {
   if (typeof date === 'string') {

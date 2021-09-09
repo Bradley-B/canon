@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 import rehypeRaw from 'rehype-raw';
 import { formatDate } from '../functions/util';
 
-const Home = () => {
+const About = () => {
   const { content: markdownBody, data: metadata } = matter(fileContent);
   const { title, publishDate } = metadata;
 
@@ -20,4 +20,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default About;

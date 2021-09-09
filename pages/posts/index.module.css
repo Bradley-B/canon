@@ -19,11 +19,6 @@
  }
 
 .postLink a {
-    text-decoration: none;
     display: flex;
     align-items: flex-end;
-}
-
-.postLink a:hover, .postLink a:active {
-    text-decoration: underline;
 }

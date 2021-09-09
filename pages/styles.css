@@ -16,3 +16,15 @@ pre {
     text-decoration: none;
     color: black;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+::selection {
+    background: #BAF5E0;
+}
