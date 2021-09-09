@@ -1,8 +1,19 @@
 const dateDisplayOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/New_York' };
 
-export const formatDate = (date) => {
-  if (typeof date === 'string') {
-    date = JSON.parse(date);
+const parseIfString = (obj) => {
+  if (typeof obj === 'string') {
+    return JSON.parse(obj);
   }
+  return obj;
+}
+
+export const compareDate = (dateA, dateB) => {
+  dateA = parseIfString(dateA);
+  dateB = parseIfString(dateB);
+  return new Date(dateB) - new Date(dateA);
+}
+
+export const formatDate = (date) => {
+  date = parseIfString(date);
   return new Date(date).toLocaleDateString("en-US", dateDisplayOptions);
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import { fetchPostContent } from '../../functions/posts';
 import styles from './index.module.css';
-import { formatDate } from '../../functions/util';
+import { formatDate, compareDate } from '../../functions/util';
 
 const PostList = ({ posts }) => {
   return <>
@@ -11,14 +11,17 @@ const PostList = ({ posts }) => {
         <a href="/about">About</a>
         <p>{ formatDate(new Date("2021-08-28")) }</p>
       </div>
-      { posts.map(({ metadata: { title, publishDate }, filename }) =>
+      { posts
+        .sort((postA, postB) => compareDate(postA.metadata.publishDate, postB.metadata.publishDate))
+        .map(({ metadata: { title, publishDate }, filename }) =>
           <div key={title} className={styles.postLink}>
             <a href={`/posts/${filename}`}>
               { title }
             </a>
             <p>{ formatDate(publishDate) }</p>
           </div>
-      )}
+        )
+      }
     </div>
   </>;
 };
