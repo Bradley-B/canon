@@ -5,11 +5,19 @@ import React from 'react';
 import { formatDate } from '../../functions/util';
 
 const Post = ({ post: { content, metadata } }) => {
-  const { title, publishDate } = metadata;
+  const { title, publishDate, lastModifiedDate } = metadata;
+
+  const formattedPublishDate = formatDate(publishDate);
+  const formattedLastModifiedDate = formatDate(lastModifiedDate);
+
+  let dateLine = `Posted on ${formattedPublishDate}.`;
+  if (formattedPublishDate !== formattedLastModifiedDate) {
+    dateLine += ` Last modified on ${formattedLastModifiedDate}.`;
+  }
 
   return (
     <>
-      <p>Posted on { formatDate(publishDate) }.</p>
+      <p>{dateLine}</p>
       <article>
         <h1>{title}</h1>
         <ReactMarkdown children={content} rehypePlugins={[rehypeRaw]} />

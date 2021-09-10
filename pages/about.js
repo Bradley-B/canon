@@ -7,11 +7,11 @@ import { formatDate } from '../functions/util';
 
 const About = () => {
   const { content: markdownBody, data: metadata } = matter(fileContent);
-  const { title, publishDate } = metadata;
+  const { title, publishDate, lastModifiedDate } = metadata;
 
   return (
     <>
-      <p>Posted on { formatDate(publishDate) }.</p>
+      <p>Posted on { formatDate(publishDate) }. Last modified on { formatDate(lastModifiedDate) }.</p>
       <article>
         <h1>{title}</h1>
         <ReactMarkdown children={markdownBody} rehypePlugins={[rehypeRaw]} />
