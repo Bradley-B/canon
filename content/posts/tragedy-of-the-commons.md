@@ -14,4 +14,9 @@ and occasional music streaming. What it is NOT enough for is forgetting that you
 is off and watching netflix for an hour. Which is what my twin sister does every month
 with two weeks left in the data cycle.
 
-So here we all are, eleven days to go in the data cycle with nothing left. 
+So there we all are, eleven days left in the data cycle with an empty bucket o' bytes.
+The whole situation is really annoying to those of us who pay attention to our
+network settings and pace our usage over the month.
+
+When it happened this time - something like the sixth or seventh - it got me thinking about
+the problem and the tragedy of the commons.
