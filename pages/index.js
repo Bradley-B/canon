@@ -1,12 +1,8 @@
-import { useRouter } from 'next/router';
-import { useEffect } from 'react';
+import PostList, { getStaticProps as postsGetStaticProps } from './posts';
 
-const Home = () => {
-  const router = useRouter();
-  useEffect(() => {
-    router.replace('/posts', '/');
-  });
-  return <></>;
+const Home = ({ posts }) => {
+  return <PostList posts={posts} />
 }
 
+export const getStaticProps = postsGetStaticProps;
 export default Home;
