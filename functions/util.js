@@ -17,3 +17,11 @@ export const formatDate = (date) => {
   date = parseIfString(date);
   return new Date(date).toLocaleDateString("en-US", dateDisplayOptions);
 }
+
+export const serializeDateValues = (object) => {
+  for (const [key, value] of Object.entries(object)) {
+    if (value instanceof Date ) {
+      object[key] = JSON.stringify(value);
+    }
+  }
+}

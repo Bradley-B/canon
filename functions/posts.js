@@ -1,6 +1,7 @@
 import path from 'path';
 import fs from 'fs';
 import matter from 'gray-matter';
+import { serializeDateValues } from './util';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
@@ -18,11 +19,7 @@ const fetchPostContent = async () => {
     let { content, data: metadata } = matter(module.default);
 
     // next.js refuses to serialize Date types, so do it manually
-    for (const [key, value] of Object.entries(metadata)) {
-      if (value instanceof Date ) {
-        metadata[key] = JSON.stringify(value);
-      }
-    }
+    serializeDateValues(metadata)
 
     const filename = postFileNames[index].substr(0, postFileNames[index].length - 3);
     return { filename, content, metadata };

@@ -1,12 +1,11 @@
 import React from 'react';
-import fileContent from '../content/about.md';
 import ReactMarkdown from 'react-markdown';
 import matter from 'gray-matter';
 import rehypeRaw from 'rehype-raw';
-import { formatDate } from '../functions/util';
+import { formatDate, serializeDateValues } from '../functions/util';
 
-const About = () => {
-  const { content: markdownBody, data: metadata } = matter(fileContent);
+const About = ({ post }) => {
+  const { content: markdownBody, data: metadata } = post;
   const { title, publishDate, lastModifiedDate } = metadata;
 
   return (
@@ -18,6 +17,18 @@ const About = () => {
       </article>
     </>
   );
+};
+
+export const getStaticProps = async () => {
+  const module = await import('../content/about.md');
+  let { content, data: metadata } = matter(module.default);
+  serializeDateValues(metadata);
+
+  return {
+    props: {
+      post: { content, data: metadata }
+    }
+  };
 };
 
 export default About;
