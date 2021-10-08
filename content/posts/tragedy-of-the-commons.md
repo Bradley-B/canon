@@ -2,6 +2,7 @@
 title: The Tragedy of the Commons
 publishDate: 2021-09-13
 lastModifiedDate: 2021-09-19
+isPublished: true
 ---
 
 I am still on my parents' phone plan with my siblings.

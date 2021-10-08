@@ -2,6 +2,7 @@
 title: About Canon
 publishDate: 2021-08-28
 lastModifiedDate: 2021-09-19
+isPublished: true
 ---
 I think a lot about what it means to be human<small><sup>[1](#foot1)</sup></small>.
 The experience of being human has really changed throughout history, especially in the last few hundred years.

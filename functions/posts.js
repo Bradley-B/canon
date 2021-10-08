@@ -23,7 +23,7 @@ const fetchPostContent = async () => {
 
     const filename = postFileNames[index].substr(0, postFileNames[index].length - 3);
     return { filename, content, metadata };
-  });
+  }).filter(post => post.metadata.isPublished);
 
   postCache = cleanedContent;
   return cleanedContent;

@@ -2,6 +2,7 @@
 title: Validity Postmortem
 publishDate: 2021-08-30
 lastModifiedDate: 2021-08-30
+isPublished: true
 ---
 It's kinda cool how adaptable people are. It's been awhile since my last day at
 [Validity](https://www.validity.com/), and I'm unfortunately back to taking classes.
