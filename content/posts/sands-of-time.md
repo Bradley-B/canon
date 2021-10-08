@@ -1,7 +1,7 @@
 ---
 title: Sands of Time
 publishDate: 2021-10-02
-lastModifiedDate: 2021-10-02
+lastModifiedDate: 2021-10-07
 ---
 I recently went on [one of my favorite recipe sites](https://www.budgetbytes.com/)
 to get the ingredients for [something I make pretty often](https://www.budgetbytes.com/one-pot-beef-mushroom-stroganoff/).
@@ -9,7 +9,7 @@ I open the link I have saved in Google Keep - just like always. I scroll past th
 life story and cooking tips - just like always. I copy the ingredients to my shopping list -
 <span style="color: red;">not</span> just like always. Huh? The ingredient list is wrong.
 My heart skips a beat as my stomach drops out. Dijon mustard? Worcestershire sauce? What 
-the fuck is this shit? I check the url in horror. Is this a different page? Am I having 
+the fuck is this shit? My panic rises. I check the url. Is this a different page? Am I having 
 a stroke or something? The ingredients are different. Or were they always this way? 
 WAS I MAKING IT WRONG THIS WHOLE TIME OH MY GOD
 
@@ -18,19 +18,22 @@ changed the fucking recipe. I feel like I was gaslit by fucking Beth from budget
 
 The Mushroom Stroganoff Incident is just another symptom of a problem I've been running
 into for a while now. We talk about information on the internet as if it'll be around
-forever. It was drilled into our heads in middle school - "be careful what you post
-online! I'll haunt you!". Sure, some things are like that. That embarrassing
-thing you did in high school? That video can't go away fast enough. What if you're looking
-for something actually useful, though? Find it, bookmark it, go back in a few months... might
-as well have never existed. All information is just one culling away from being lost forever. 
+forever. Parents and teachers echo "be careful what you post online!", but they don't
+talk about the other side of the coin. I grew up with the understanding that whatever goes
+up on the internet won't come down. Yeah, some things are like that. Embarrassing videos? Sure.
+Those can't go away fast enough. What if you're looking for something actually useful, though?
+Find it, bookmark it, go back in a few months... might as well have never existed. Dead links
+are dead forever. All information is just one cull away from being lost, permanently. 
 
 It's all ephemeral. Everything returns to entropy. Tablets erode, paintings fade, books decay,
 and bits un-flip. Unto dust shalt thou return.
 
-"So what's the solution?" you might ask. What, to entropy? Sorry. We can't reverse the laws of
-physics quite yet. We're trying to come up with mitigations in the short term, though.
-The good people at the Internet Archive are making great progress, but they can't hope
-to capture *the entire internet*. As for myself, I'll do what any reasonable person
+I think this is the main advantage of having a time machine. Imagine all the cool-ass shit
+we've lost to history that we could finally have back. What happened to the Roanoke Colony?
+What happened to D. B. Cooper? Who built stonehenge? And, most importantly,
+what happened to my fucking mushroom stroganoff recipe?
+
+Until I get a time machine, I'll do what any reasonable person
 would after they've been burned: trust no one. I can't rely on any resource
 that I don't control. 
 
