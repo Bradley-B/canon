@@ -4,21 +4,3 @@
     margin-left: 30px;
     padding: 5px;
 }
-
-.postLink {
-    font-size: 15pt;
-    display: flex;
-    margin: 5px;
-}
-
-.postLink p {
-    font-size: 10pt;
-    margin-left: 10px;
-    margin-bottom: 0;
-    padding-bottom: 0;
- }
-
-.postLink a {
-    display: flex;
-    align-items: flex-end;
-}
