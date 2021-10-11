@@ -2,23 +2,22 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding: 5px;
 }
 
 .postLink {
     font-size: 15pt;
     display: flex;
-    margin: 5px;
+    flex-wrap: wrap;
+    margin: 10px 0 10px 0;
 }
 
 .postLink p {
     font-size: 10pt;
-    margin-left: 10px;
-    margin-bottom: 0;
-    padding-bottom: 0;
+    margin: 0 0 0 10px;
+    padding: 0 0 2px 0;
  }
 
-.postLink a {
+.postLink a, .postLink p {
     display: flex;
     align-items: flex-end;
 }
