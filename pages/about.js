@@ -10,7 +10,7 @@ const About = ({ post }) => {
 
   return (
     <>
-      <p>Posted on { formatDate(publishDate) }. Last modified on { formatDate(lastModifiedDate) }.</p>
+      <p>Posted on { formatDate(publishDate) }. Revised { formatDate(lastModifiedDate) }.</p>
       <article>
         <h1>{title}</h1>
         <ReactMarkdown children={markdownBody} rehypePlugins={[rehypeRaw]} />

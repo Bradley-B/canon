@@ -12,7 +12,7 @@ const Post = ({ post: { content, metadata } }) => {
 
   let dateLine = `Posted on ${formattedPublishDate}.`;
   if (formattedPublishDate !== formattedLastModifiedDate) {
-    dateLine += ` Last modified on ${formattedLastModifiedDate}.`;
+    dateLine += ` Revised ${formattedLastModifiedDate}.`;
   }
 
   return (
