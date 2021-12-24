@@ -35,9 +35,51 @@ tested and is found Human. <TODO the rest of this section>
 
 I'm not sure if this is written as a conscious thing or not 
 
+## The Dinner Party
+
+Do people like this scene? For me, it dragged on a little long. I did enjoy the showcase of Jessica's
+powers - the way she so easily reads everyone in the room, is able to predict what they all will say before
+they say it. It shows Leto as maybe a bit unhinged, wasting all that good drinking water. All that *wealth*.
+
+These sorts of scenes are interesting from a plot point of view. Somehow, at the same time, nothing happens
+but yet we learn so much about the characters involved. Ultimately, we never heard from most of the
+people at this party again. 🤷‍♂️. Kynes is important. Oh man, Kynes. They really went and killed the leader
+of the Fremen. Does his death clear the way for Maud'Dib? Even while alive he was quoting legends in his
+head about the Lisan al' Gaib. He probably would have accepted Paul and remained alive in a similar way
+to Stilgar.
+
+## The Coming Jihad
+
+So for a long time Paul's main driving force is that he wants to prevent the holy war in his name. By
+the end of the book, he doesn't seem to care anymore. What changed? Has he accepted that it will happen
+regardless? Has he changed so much, gone mad with power? Becoming the Lisan al Gaib will do that
+to you, I imagine. As will being able to see the future. Hmm. 
+
+After the final battle, I think that Gurney notes to him that he appears to care more about the equipment
+than the lives lost. Very un-Atrietes. Is he losing himself, his house's legacy? The Fremen have certainly
+changed him. At this point, I might agree with Jessica in not really feeling compassion for him anymore.
+
 ## Jessica: The Last Reverend Mother
 
-oh my god it's avatar the last airbender
+I think, when I read the Reverend Mother scene, I physically recoiled. In a good way, though. Like,
+I put down the book, stood up, and started pacing, I was so excited. This is both a testament to
+Herbert's good writing and also the fact that it's such a cool plotline. ALSO it's literally
+Avatar: The Last Airbender. Hype as fuck. I wonder if the ATLA writers got their inspiration fron Dune,
+because it's so similar.
+
+I was trying to remember other pop culture references of the 'past lives' trope, but I
+struggled to think of anything except avatar. I actually prefer the way Dune handles it - in Avatar,
+you are born an Avatar and you get no say in the matter. I forget its name, but there's some spirit
+that binds past avatars together and preserves their memories. New avatars are born when the old ones
+die, so there is only ever one at the same time. In Dune, you need to take ownership of the memories,
+they aren't just there when you're born. Granted, you need to be a Benne-Gesserit, but not all Benne-
+Genserit are Reverend Mothers. The end result is the same, you get access to other people's
+memories. I feel like Dune it's cooler - you instantly have access to the memories, and there's no
+grappling with destiny, you know you're going to become a Reverend Mother. There's no conflict like
+'uh no I don't want to be the avatar actually'.
+
+This type of power is one of my favorite sci fi tropes. The Matrix sort of does it, on a less personal
+level. Chills, dude. 
 
 ## Chani and Gender Roles
 
@@ -62,13 +104,17 @@ What did Chani get? A place by Paul's side as concubine. Great.
 Does this property extend to other female characters? I don't know. I thought Jessica was great and
 a well developed character. Mapes is a good throwaway character lol. Harah was alright too.
 I would have liked some more content at the southern Seitch where Jessica, Chani, and their kids were
-sent in the two-year interim.  
+sent in the two-year interim.
 
-Alia is absolutely my favorite character in the whole book. A three-year old with the knowledge of a
+## Alia
+
+We've gotta talk about Alia. 
+She is absolutely my favorite character in the whole book. A three-year old with the knowledge of a
 hundred generations, putting the Emperor and his Truthsayer in their place. It's refreshing to have
-a character that isn't totally intimidated by Paul, who seems to actually surpass him in some abilities
-and is willing to flaunt that, unlike Jessica who honestly can be kinda dull. I hope that Alia gets a
-role in the later books and doesn't lose her wit and charm.
+a character that speaks their mind and doesn't speak in riddles. She isn't intimidated by Paul
+(or by anyone), seems to actually surpass him in some abilities, and is willing to flaunt that
+(unlike Jessica who honestly can be kinda dull). I hope that Alia gets a role in the later books and 
+doesn't lose her wit and charm.
 
 ## Stilgar
 
@@ -80,19 +126,93 @@ As a character, Stilgar comes a long way. It's the same guy that forms a testy a
 Paul and Jessica into Seitch Tabr. The same guy that trains Paul in the Fremen ways for two years and dares
 him to challenge him and take control of the Seitch. Still, there's a tinge of sadness by the end of the book
 between Stil and Paul. By then, Stil really only views him as The Prophet. He quotes Fremen legends with
-the Feydakin whenever Paul so much as breathes. It's an interesting consequence that plays on the true 
+the Fedaykin whenever Paul so much as breathes. It's an interesting consequence that plays on the true 
 destructive power of myth.
 
 ## Duncan Idaho, Gurney Hallek, and Thufir Hawat
 
+In the first few part of the book I regularly mixed up who these three were. They're all introduced within
+like a few chapters of each other and they all have similar roles. Loyal Atrietes men who helped train Paul.
+The intricacies of their character differences are actually interesting, but I had difficulty with them
+at first. It gets easier after one of them dies and they part ways after the betrayal. I knew that
+Thufir thought that Jessica was the traitor, but I didn't realize that Gurney believed that as well.
+This led to me being slightly confused when Gurney almost killed Jessica. I didn't go back and look, it was
+probably mentioned but I missed it. It does make sense, he must have seen the Harkonnen note along with
+Thufir and similarly believed it to be true.
+
+Duncan was loyal to the end. To my surprise he seemed to actually have a smaller role in the book than
+in the movie. Although, there was the whole drunk scene that wasn't in the movie. Hmm. Duncan dies knowing
+it wasn't Jessica, right? I don't remember. In the first part I do remember thinking that his character
+could totally be merged with Gurney, but knowing how everything turns out I admit that it's better for
+them to be separate.
+
+Gurney also remains loyal. He obviously just doesn't know that Paul lives and he just kinda chills with
+the smugglers for 2-3 years until Paul collects him. Good for Paul to have someone from his past to
+ground him. Shared history is important. At least Gurney doesn't join up with the Harkonnens, unlike
+*some people*.  
+
+Yeah, I mean Thufir. Did he redeem himself, in the end? I guess? He dies without killing Paul with the
+Emperor's poison. While working for the Baron, he often thinks to himself how much he hates the Harkonnens,
+but he never acts on it. Are we meant to think that it was him that raided the Seitch and killed little 
+Leto? If so, he really did more harm than good. After discovering that Maud'Dib is Paul, he pledges
+allegiance again, but I feel like it's too little too late considering he is actively dying from antidote
+withdrawal. You could argue that he had no way to know. Still, joining forces with your (former?) House's
+enemy is kinda not okay. He joins back up with the holy squad at the end. Not sold on him.
+
+## Feyd-Rautha
+
+Feyd-Rautha is a cool villain. Baron Harkonnen is, like, fine. Classic evil dude. His power comes from
+money in his CHOAM shares, I think. He can't come up with schemes on his own, relying on Piter and 
+Thufir to concoct them for him. He's totally disgusting. His redemption comes in the form of not
+immediately killing his successor when an attempt is made on his own life. He dies with little fanfare to
+best girl Alia.
+
+Feyd-Rautha similarly has few redeeming qualities, but at least he's evil in style. He's got a head on
+his shoulders, especially seen in the final battle. I think what I like most about Feyd-Rautha is how he
+is juxtaposed against Paul. Both are characters rising to power in the book, but the way they do it is totally
+different. Feyd-Rautha inherits the Harkonnen throne. His gladiator fights are rigged. He doesn't even
+have the balls to kill his uncle himself. Paul loses everything, and fights tooth and nail for it back.
+This makes Paul far more likable. Both are willing to do anything to get what they want, but as an Atrietes,
+Paul seems to have more honor. 
+
+In their final battle, Paul proves that he and Feyd-Rautha are different, despite their common ancestry. 
+Where Feyd-Rautha has chosen to use a safe word in the same position, Paul retains his honor and
+emerges victorious for it.
+
+Since finding out he was a Harkonnen, I think this weighed on Paul. He has Harkonnen and Atrietes blood,
+and he grapples with what that means. With the Harkonnens dead, maybe he can resolve some of his
+inner turmoil.
+
+## Visions of an Empire
+
+In many ways, Dune is a tale of overconfidence. Overconfidence of the Atreities, knowing that a trap
+was set but jumping into it anyway. Overconfidence of the Benne-Geserit, asserting that they could
+bend the will of the Kwisach Haderach. Overconfidence of the Emperor, believing that he could fling 
+Great Houses like swords at each other with no consequence to himself. Overconfidence of the Sardukkar,
+unable to accept that they might lose in battle. Overconfidence of the Spacing Guild, with their hoards 
+of money, blind to the possibility that Paul would destroy the spice. Overconfidence of Feyd-Rautha,
+unaware of Maud'Dib's power and the weirding ways.
+
+Overconfidence of the Fremen, believing that with a just cause they can't fail. I mean, they were right
+in this case. But still overconfident imo.
+
+That's how these stories go. Civilizations fall from overconfidence. Complacency leads to downfall. It's
+been the way since before the Roman Empire, and it will be the way 10,000 years from now.
+
 ## Movie
 
 Of course, the reason that I read *Dune* was that I loved the movie so much and couldn't wait a year
-to find out what happens next.
+to find out what happens next. If you feel this way, I think it's worth it to read the book. I legitimately
+enjoyed reading the part of the book the movie covered, because there's so much more to uncover in the plot
+that the movie doesn't get to. I liked how in the book, the reader knows that Yueh is the traitor from 
+the beginning. It creates tension with the characters. There were at least a couple points that I was
+like 'is this it? is it happening???' Jessica is so close to figuring it out! Knowing about the betrayal,
+the payoff is still worth it. It's like in Romeo and Juliet - from the beginning, you the reader knows 
+they both die at the end. It's still a good read.
 
 --- 
 
-If nothing else, the first *Dune* novel creates and sustains an interesting world. The book manages to 
-hold the reader's attention in spite of its length, and it I look forward to reading more in the
+If nothing else, the first *Dune* novel creates and sustains a deep and interesting world. The book
+manages to hold the reader's attention in spite of its length, and it I look forward to reading more in the
 series.
  
