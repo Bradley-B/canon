@@ -1,8 +1,8 @@
 ---
 title: Dune
-publishDate: 2021-12-22
-lastModifiedDate: 2021-12-22
-isPublished: false
+publishDate: 2021-12-29
+lastModifiedDate: 2021-12-29
+isPublished: true
 ---
 
 *~~~ This post contains spoilers for the first Dune book. It also assumes that you've read the book and 
@@ -17,10 +17,6 @@ and The Prophet. To keep things from getting confusing I'm going to refer to the
 "parts". I don't know why they're called "books". This is possibly the thing I most dislike about Dune,
 and it makes it very annoying to talk about, say, the second part of the first book.
 
-The first part of the book establishes the characters and explains how Paul and Jessica, nobles of the
-(former?) Great House Atrietes find themselves alone, wandering the desert with nothing more than the
-bare essentials.
-
 ## Mother and Son, Eternally at Odds
 
 Throughout the book, Paul and Jessica routinely one-up each other in their superhuman abilities.
@@ -31,15 +27,37 @@ being trained to be a Mentat. So, at the start of the book, Paul is already pois
 two of the pillars of their society, both of which you need to be specifically bred and trained for.
 
 Jessica seems fine with this, as it's all according to her plan so far. She's happy when her son is
-tested and is found Human. <TODO the rest of this section>
+tested and is found Human. However, as soon as Paul starts to get some prescience from the spice, she's
+pregnant with the daughter he was supposed to be. She then becomes a Reverend Mother. Not to be outdone,
+Paul also takes the water of life and becomes the kwisatz haderach. 
 
-I'm not sure if this is written as a conscious thing or not 
+I'm not sure if this is written as a conscious thing or not. The new abilities are really tied to their
+character progression, so it does make sense to get them. It ultimately doesn't bother me that much, but
+I did think it was amusing. Paired with the fact that Paul and Jessica can be at odds sometimes (Paul says
+*my mother is my enemy* and Jessica notes how she has no compassion for Paul) and I did wonder if some
+of their gain in abilities was to take a dig at the other.
+
+## Style
+
+One thing I liked about the style of the book was how they handled introducing new information to the
+reader. Two big examples that stand out are the Liet-Kynes pieces and the Maker pieces. In both cases,
+the final piece of information to be communicated (Liet is Kynes and The Worms Make The Spice / The Fremen
+Ride The Worms) isn't exactly *told* to you. It would be easy to have a dialog between two characters where
+Chani or whoever just goes 'hey. You should probably know. The worms make the spice'. Instead, the info
+is drip-fed to you in small parts until you finally go 'ah, that's how it works'. Working it out is so
+much more rewarding for the reader - it makes them feel clever, like they solved a puzzle.
+
+## Appendixes
+
+Dune includes a few appendix chapters with misc info, as well as a glossary of most of the made-up words.
+This is cool for worldbuilding, I like it.
 
 ## The Dinner Party
 
 Do people like this scene? For me, it dragged on a little long. I did enjoy the showcase of Jessica's
 powers - the way she so easily reads everyone in the room, is able to predict what they all will say before
 they say it. It shows Leto as maybe a bit unhinged, wasting all that good drinking water. All that *wealth*.
+Calculated unhinged-ness.
 
 These sorts of scenes are interesting from a plot point of view. Somehow, at the same time, nothing happens
 but yet we learn so much about the characters involved. Ultimately, we never heard from most of the
@@ -64,8 +82,7 @@ changed him. At this point, I might agree with Jessica in not really feeling com
 I think, when I read the Reverend Mother scene, I physically recoiled. In a good way, though. Like,
 I put down the book, stood up, and started pacing, I was so excited. This is both a testament to
 Herbert's good writing and also the fact that it's such a cool plotline. ALSO it's literally
-Avatar: The Last Airbender. Hype as fuck. I wonder if the ATLA writers got their inspiration fron Dune,
-because it's so similar.
+Avatar: The Last Airbender. Hype as fuck. I wonder if the ATLA writers got some inspiration fron Dune.
 
 I was trying to remember other pop culture references of the 'past lives' trope, but I
 struggled to think of anything except avatar. I actually prefer the way Dune handles it - in Avatar,
@@ -99,7 +116,8 @@ where she apparently gets some limited prescience and discovers that her true pu
 a son with Paul 🙄. She occasionally goes on mysterious missions, which we sometimes see the results of.
 She disagrees with Paul, like, two or three times in the whole book, which leads to interesting discussions.
 But what do these discussions build *to*? The ending of the book brought payoff for so many characters.
-What did Chani get? A place by Paul's side as concubine. Great.
+What did Chani get? A place by Paul's side as concubine. Great. Wanting what's best for Paul is one thing,
+but it would be nice if she had her own ambitions too.
 
 Does this property extend to other female characters? I don't know. I thought Jessica was great and
 a well developed character. Mapes is a good throwaway character lol. Harah was alright too.
@@ -206,8 +224,8 @@ to find out what happens next. If you feel this way, I think it's worth it to re
 enjoyed reading the part of the book the movie covered, because there's so much more to uncover in the plot
 that the movie doesn't get to. I liked how in the book, the reader knows that Yueh is the traitor from 
 the beginning. It creates tension with the characters. There were at least a couple points that I was
-like 'is this it? is it happening???' Jessica is so close to figuring it out! Knowing about the betrayal,
-the payoff is still worth it. It's like in Romeo and Juliet - from the beginning, you the reader knows 
+like 'is this it? is it happening??? 😲' Jessica is so close to figuring it out! Knowing about the betrayal,
+the payoff is still totally worth it. It's like in Romeo and Juliet - from the beginning, you the reader knows 
 they both die at the end. It's still a good read.
 
 --- 
