@@ -1,8 +1,13 @@
 import { fetchPostContent } from '../../functions/posts';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
-import React from 'react';
+import React, { useEffect } from 'react';
 import { formatDate } from '../../functions/util';
+
+import hljs from 'highlight.js/lib/core';
+import javascript from 'highlight.js/lib/languages/javascript';
+hljs.registerLanguage('javascript', javascript);
+// register more languages here
 
 const Post = ({ post: { content, metadata } }) => {
   const { title, publishDate, lastModifiedDate } = metadata;
@@ -14,6 +19,10 @@ const Post = ({ post: { content, metadata } }) => {
   if (formattedPublishDate !== formattedLastModifiedDate) {
     dateLine += ` Revised ${formattedLastModifiedDate}.`;
   }
+
+  useEffect(() => {
+    hljs.initHighlighting();
+  }, []);
 
   return (
     <>
