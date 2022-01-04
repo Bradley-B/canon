@@ -36,3 +36,21 @@ img {
 ::selection {
     background: #BAF5E0;
 }
+
+h4 {
+    margin: 0;
+}
+
+h4 + p {
+    margin-top: 0;
+}
+
+.more-width-70 {
+    left: 50%;
+    margin-left: -35vw;
+    margin-right: -35vw;
+    max-width: 70vw;
+    position: relative;
+    right: 50%;
+    width: 70vw;
+}

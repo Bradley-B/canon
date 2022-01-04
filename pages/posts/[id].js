@@ -21,7 +21,7 @@ const Post = ({ post: { content, metadata } }) => {
   }
 
   useEffect(() => {
-    hljs.initHighlighting();
+    hljs.highlightAll();
   }, []);
 
   return (
