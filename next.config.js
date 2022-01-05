@@ -1,4 +1,5 @@
 module.exports = {
+  distDir: 'build',
   webpack: (cfg) => {
     cfg.module.rules.push(
       {
