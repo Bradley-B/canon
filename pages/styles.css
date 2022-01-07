@@ -33,8 +33,14 @@ img {
     height: auto;
 }
 
+pre code::selection, pre code span::selection {
+    color: unset;
+    background-color: highlight;
+}
+
 ::selection {
-    background: #BAF5E0;
+    color: #0e5c50;
+    background-color: #ccf6e2;
 }
 
 h4 {
