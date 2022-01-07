@@ -33,7 +33,7 @@ img {
     height: auto;
 }
 
-pre code::selection, pre code span::selection {
+pre > code::selection, pre > code > span::selection {
     color: unset;
     background-color: highlight;
 }
