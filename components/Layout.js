@@ -13,6 +13,7 @@ const Layout = ({ children }) => {
       </Head>
       <nav className={styles.navbar} >
         <Link href='/posts'><a>Posts</a></Link>
+        <Link href='/recipes'><a>Recipes</a></Link>
         <Link href='/about'><a>About</a></Link>
       </nav>
       <div className={styles.layout}>
