@@ -5,6 +5,9 @@ lastModifiedDate: 2022-02-09
 isPublished: true
 ---
 
+Everyone, may I have your attention please. This is now exclusively a food blog. No further questions. 
+Thank you.
+
 In the wake of the [mushroom stroganoff incident](../posts/sands-of-time) I started keeping more plaintext 
 backups of recipes, mostly in Google Keep. Given [Google's history of killing things](https://killedbygoogle.com/),
 this was probably not a great idea, but whatever. When I needed to reference a recipe, I would open the 

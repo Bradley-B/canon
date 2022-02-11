@@ -4,12 +4,13 @@ import styles from './index.module.css';
 import { formatDate, compareDate } from '../../functions/util';
 
 const PostList = ({ recipes }) => {
+  recipes.sort((recipeA, recipeB) => compareDate(recipeA.metadata.publishDate, recipeB.metadata.publishDate));
+  recipes.unshift(recipes.pop());
   return <>
     <h1>Recipes</h1>
     <div className={styles.recipeContainer}>
-      { recipes
-        .sort((recipeA, recipeB) => compareDate(recipeA.metadata.publishDate, recipeB.metadata.publishDate))
-        .map(({ metadata: { title, publishDate }, filename }) =>
+      {
+        recipes.map(({ metadata: { title, publishDate }, filename }) =>
           <div key={title} className={styles.recipeLink}>
             <a href={`/recipes/${filename}`}>
               { title }
