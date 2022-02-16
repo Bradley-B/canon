@@ -12,9 +12,20 @@ Recipe #2 originally from [Adam Ragusea](https://www.youtube.com/watch?v=SDpCzJw
 
 ## Recipe #2
 
-Makes four pizzas. Comments TBD
+Makes four pizzas. I'm on board with making the dough in advance, even if just to break up the work into 
+separate days. I think it turned out better tasting, and I was able to get it flatter than with Recipe #1. 
+I don't care to do a taste test where I make both. I will probably go with Recipe #2 from now on.
+
+After letting the dough rise in the fridge for 4 days, it was tasty and still workable. After 6 days, it 
+took on a very noticeable alcohol smell (like, headache-inducing) due to the fermentation. Dough was tasty,
+of course, but I found it harder to work with. I would say that 6 days is too long. After 7 days, I made 
+the last of the dough into bread, which was delicious. Would do it again.
+
+Next time I want to try shredding the cheese myself (and maybe using a baking steel), but I'm having 
+trouble finding a grocery store that sells block mozzarella in low moisture, whole milk form.
 
 ### Staple Ingredients
+- 2 1/4 cup water
 - 1 tbsp granulated sugar
 - 1 tbsp yeast + more if you want it yeasty
 - 5 cups bread flour
