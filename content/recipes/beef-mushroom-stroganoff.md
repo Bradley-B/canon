@@ -7,7 +7,9 @@ isPublished: true
 
 Recipe originally from [Budget Bytes](https://www.budgetbytes.com/one-pot-beef-mushroom-stroganoff/).
 Sometimes I double the recipe, but I don't really have cookware that's big enough so more often I just 
-make it twice across a few days.
+make it twice across a few days. I'm not a huge worcestershire sauce fan, so I sometimes replace it with 
+oyster sauce or soy sauce. It doesn't make it taste oyster-y -- it's to add more umami. As if this recipe 
+needs it with the beef & mushrooms, lol. 
 
 ### Staple Ingredients
 - 2 cloves garlic
