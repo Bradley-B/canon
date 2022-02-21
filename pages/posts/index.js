@@ -7,10 +7,6 @@ const PostList = ({ posts }) => {
   return <>
     <h1>Posts</h1>
     <div className={styles.postContainer}>
-      <div className={styles.postLink}>
-        <a href="/about">About</a>
-        <p>{ formatDate(new Date("2021-08-28")) }</p>
-      </div>
       { posts
         .sort((postA, postB) => compareDate(postA.metadata.publishDate, postB.metadata.publishDate))
         .map(({ metadata: { title, publishDate }, filename }) =>
@@ -22,6 +18,10 @@ const PostList = ({ posts }) => {
           </div>
         )
       }
+      <div className={styles.postLink}>
+        <a href="/about">About</a>
+        <p>{ formatDate(new Date("2021-08-28")) }</p>
+      </div>
     </div>
   </>;
 };
