@@ -20,7 +20,7 @@ have to deal with raw chicken, and I can split up the work by shredding it in ad
 - 2-3 green onions, chopped
 - 1 cup salsa
 - 1.5-2 cups precooked shredded chicken
-- 1 3/4 chips chicken broth
+- 1 3/4 cups chicken broth
 
 ### Instructions
 - combine rice, salsa, chicken, black beans, chili powder, and chicken broth in a large skillet
