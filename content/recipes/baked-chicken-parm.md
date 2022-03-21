@@ -7,7 +7,8 @@ isPublished: true
 
 Recipe originally from [Gimme Delicious](https://gimmedelicious.com/baked-chicken-parmesan/). Frying 
 chicken is kinda stressful, and I often mess it up. It always comes out too oily or watery. This recipe 
-doesn't have those problems, it's pretty good. 
+doesn't have those problems, it's pretty good. The recipe calls for 1 tsp of salt, but I think that's a 
+bit much (and I like salt). Maybe 1/2 a tsp is right.
 
 ### Staple Ingredients
 - 2 tbsp olive oil

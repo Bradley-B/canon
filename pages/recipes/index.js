@@ -3,7 +3,7 @@ import { fetchRecipeContent } from '../../functions/recipes';
 import styles from './index.module.css';
 import { formatDate, compareDate } from '../../functions/util';
 
-const PostList = ({ recipes }) => {
+const RecipeList = ({ recipes }) => {
   recipes.sort((recipeA, recipeB) => compareDate(recipeA.metadata.publishDate, recipeB.metadata.publishDate));
   recipes.unshift(recipes.pop());
   return <>
@@ -31,4 +31,4 @@ export const getStaticProps = async () => {
   };
 };
 
-export default PostList;
+export default RecipeList;
