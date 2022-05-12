@@ -38,10 +38,10 @@ pre > code::selection, pre > code > span::selection {
     background-color: highlight;
 }
 
-::selection {
-    color: #0e5c50;
-    background-color: #ccf6e2;
-}
+/*::selection {*/
+/*    color: #0e5c50;*/
+/*    background-color: #ccf6e2;*/
+/*}*/
 
 h4 {
     margin: 0;
@@ -68,4 +68,21 @@ h4 + p {
         width: 90vw;
         max-width: 90vw;
     }
+}
+
+blockquote p::before {
+    color: #4e718d;
+    position: absolute;
+    content: '“';
+    font-size: 3rem;
+    top: 0;
+    left: -10px;
+}
+
+blockquote p {
+    position: relative;
+    border: #ddd 2px dashed;
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
 }
