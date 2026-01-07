@@ -1,8 +1,9 @@
-import PostList, { getStaticProps as postsGetStaticProps } from './posts';
+// import PostList, { getStaticProps as postsGetStaticProps } from './posts';
+import RecipeList, { getStaticProps as recipesGetStaticProps } from './recipes';
 
-const Home = ({ posts }) => {
-  return <PostList posts={posts} />
+const Home = (props) => {
+  return <RecipeList recipes={props.recipes} />
 }
 
-export const getStaticProps = postsGetStaticProps;
+export const getStaticProps = recipesGetStaticProps;
 export default Home;
