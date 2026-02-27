@@ -11,7 +11,7 @@ const RecipeList = ({ recipes }) => {
     <div className={styles.recipeContainer}>
       {
         recipes.map(({ metadata: { title, publishDate }, filename }) =>
-          <div key={title} className={styles.recipeLink}>
+          <div style={{ marginLeft: (Math.random() * 60) - 30 }} key={title} className={styles.recipeLink}>
             <a href={`/recipes/${filename}`}>
               { title }
             </a>
