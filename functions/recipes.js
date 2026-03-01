@@ -21,7 +21,7 @@ const fetchRecipeContent = async () => {
     // next.js refuses to serialize Date types, so do it manually
     serializeDateValues(metadata)
 
-    const filename = recipeFileNames[index].substr(0, recipeFileNames[index].length - 3);
+    const filename = recipeFileNames[index].substring(0, recipeFileNames[index].length - 3);
     return { filename, content, metadata };
   }).filter(recipe => recipe.metadata.isPublished);
 
