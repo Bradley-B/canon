@@ -1,0 +1,91 @@
+{
+  "version": "1.2",
+  "media": {
+    "default_library": "repo_media",
+    "libraries": [
+      {
+        "key": "repo_media",
+        "label": "Repository media",
+        "references": {
+          "write": {
+            "mode": "root_relative",
+            "base_path": "/"
+          },
+          "allow_default_library_fallback": true
+        },
+        "limits": {
+          "max_file_size_mb": 10
+        },
+        "driver": "git",
+        "storage": {
+          "root_path": "public/img"
+        }
+      }
+    ]
+  },
+  "ssg_framework": "nextjs",
+  "frontmatter_format": "yaml",
+  "publishing_mode": "editorial_workflow",
+  "collections": [
+    {
+      "name": "recipes",
+      "git_path": "/content/recipes/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat",
+      "frontmatter_schema": [
+        {
+          "name": "title",
+          "type": "title",
+          "label": "Title"
+        },
+        {
+          "name": "publishDate",
+          "type": "datetime",
+          "label": "Publish Date"
+        },
+        {
+          "name": "lastModifiedDate",
+          "type": "datetime",
+          "label": "Last Modified Date"
+        },
+        {
+          "name": "isPublished",
+          "type": "boolean",
+          "label": "Is Published",
+          "default": true
+        }
+      ]
+    },
+    {
+      "name": "posts",
+      "git_path": "/content/posts/",
+      "file_extension": ".md",
+      "filename_pattern": "",
+      "collection_type": "flat",
+      "frontmatter_schema": [
+        {
+          "name": "title",
+          "type": "title",
+          "label": "Title"
+        },
+        {
+          "name": "publishDate",
+          "type": "datetime",
+          "label": "Publish Date"
+        },
+        {
+          "name": "lastModifiedDate",
+          "type": "datetime",
+          "label": "Last Modified Date"
+        },
+        {
+          "name": "isPublished",
+          "type": "boolean",
+          "label": "Is Published",
+          "default": true
+        }
+      ]
+    }
+  ]
+}
