@@ -1,5 +1,5 @@
 import React, { useLayoutEffect, useState } from 'react';
-import { fetchRecipeContent } from '../../functions/recipes';
+import { fetchRecipeContent } from '../../functions/kitchen';
 import styles from './index.module.css';
 import { formatDate, compareDate } from '../../functions/util';
 
@@ -7,24 +7,15 @@ const calcMargins = r => r.map(() => (Math.random() * 60) - 30);
 
 const RecipeList = ({ recipes }) => {
   recipes.sort((recipeA, recipeB) => compareDate(recipeA.metadata.publishDate, recipeB.metadata.publishDate));
-  recipes.unshift(recipes.pop());
-
-  const [margins, setMargins] = useState(new Array(recipes.length));
-
-  useLayoutEffect(() => {
-    setMargins(calcMargins(recipes));
-  }, []);
 
   return <>
-    <h1>Recipes</h1>
+    <h1>Test Kitchen</h1>
+    Recipes I want to try or have tried, but have not made it to regular rotation.
     <div className={styles.recipeContainer}>
-      <div style={{ marginBlock: 30 }}>
-        <a href="/kitchen" role='button' className={styles.testKitchenBtn}>Test Kitchen</a>
-      </div>
       {
         recipes.map(({ metadata: { title, publishDate }, filename }, i) =>
-          <div style={{ marginLeft: margins[i]}} key={title} className={styles.recipeLink}>
-            <a href={`/recipes/${filename}`}>
+          <div key={title} className={styles.recipeLink}>
+            <a href={`/kitchen/${filename}`}>
               { title }
             </a>
             <p>{ formatDate(publishDate) }</p>
